@@ -1,4 +1,4 @@
-![logo](https://github.com/M1236-ally/M1236-ally/blob/main/Github%20Banner.png)
+![logo](https://github.com/shivam142003/Profile/blob/d8c4062127bdda7293d2b5ac30fe10cdfd1d844e/Shivam%20Tyagi%20Profile.png)
 <h1 align="center">Hi 👋, I'm Shivam Tyagi</h1>
 <h3 align="center">An aspiring Software developer</h3>
 <img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
