@@ -6,8 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muskan-tyagi-416b591a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muskan-tyagi-416b591a3" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/muskantyagi138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muskantyagi138" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivam-tyagi-08ba09196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muskan-tyagi-416b591a3" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/CSDSC_21B1541009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muskantyagi138" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/muskan-13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muskan-13" height="30" width="40" /></a>
 </p>
 
