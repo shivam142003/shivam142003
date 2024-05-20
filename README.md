@@ -1,5 +1,5 @@
 ![logo](https://github.com/M1236-ally/M1236-ally/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Muskan Tyagi</h1>
+<h1 align="center">Hi 👋, I'm Shivam Tyagi</h1>
 <h3 align="center">An aspiring Software developer</h3>
 <img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1236-ally&label=Profile%20views&color=0e75b6&style=flat" alt="m1236-ally" /> </p>
