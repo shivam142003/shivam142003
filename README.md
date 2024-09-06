@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Tyagi</h1>
 <h3 align="center">An aspiring Software developer</h3>
 <img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
-<p align="left"> <img src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png" alt="m1236-ally" /> </p>
+<p align="left"> <img src="" alt="m1236-ally" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
